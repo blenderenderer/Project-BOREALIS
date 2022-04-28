@@ -1,0 +1,49 @@
+{
+	"pattrstorage" : 	{
+		"name" : "snare_presets",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"snare_decay" : [ 70 ],
+					"snare_noise" : [ 3323.0 ],
+					"snare_tune" : [ 200.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"snare_decay" : [ 150 ],
+					"snare_noise" : [ 6000.0 ],
+					"snare_tune" : [ 150.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"snare_decay" : [ 400 ],
+					"snare_noise" : [ 1000.0 ],
+					"snare_tune" : [ 90.0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"snare_decay" : [ 100 ],
+					"snare_noise" : [ 7000.0 ],
+					"snare_tune" : [ 220.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

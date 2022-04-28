@@ -1,0 +1,53 @@
+{
+	"pattrstorage" : 	{
+		"name" : "kick_presets",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"kick_decay" : [ 250.000149999999962 ],
+					"kick_filter" : [ 1.50015 ],
+					"kick_pitch" : [ 0.50015 ],
+					"kick_sine" : [ 1.00015 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"kick_decay" : [ 50.0 ],
+					"kick_filter" : [ 1.0 ],
+					"kick_pitch" : [ 1.5 ],
+					"kick_sine" : [ 1.00015 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"kick_decay" : [ 150.0 ],
+					"kick_filter" : [ 2.0 ],
+					"kick_pitch" : [ 0.5 ],
+					"kick_sine" : [ 0.75 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"kick_decay" : [ 711.0 ],
+					"kick_filter" : [ 2.0 ],
+					"kick_pitch" : [ 0.5 ],
+					"kick_sine" : [ 0.75 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

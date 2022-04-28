@@ -1,0 +1,59 @@
+{
+	"pattrstorage" : 	{
+		"name" : "cymbal_presets",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"hh_decay" : [ 250 ],
+					"hh_metal" : [ 1.0 ],
+					"hh_tone" : [ 500.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"hh_decay" : [ 50 ],
+					"hh_metal" : [ 0.6 ],
+					"hh_tone" : [ 300.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"hh_decay" : [ 30 ],
+					"hh_metal" : [ 1.5 ],
+					"hh_tone" : [ 800.0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"hh_decay" : [ 1200 ],
+					"hh_metal" : [ 0.8 ],
+					"hh_tone" : [ 500.0 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"hh_decay" : [ 500 ],
+					"hh_metal" : [ 1.5 ],
+					"hh_tone" : [ 750.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
